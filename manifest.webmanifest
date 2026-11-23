@@ -1,0 +1,19 @@
+{
+  "name": "Student Study Hub",
+  "short_name": "Study Hub",
+  "description": "Track study tasks, exams, focus sessions, notes, streaks, and progress.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "icons/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
